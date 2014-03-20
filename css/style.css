@@ -16,7 +16,7 @@ img {
 
 h1 {
 	font-size: 1.4em;
-	letter-spacing: -1px;
+	letter-spacing: -.0625em;
 }
 h2 {
 	font-size: 1.500em;
@@ -26,9 +26,9 @@ h2 {
 .btn {
 	color: #FFFFFF;
 	background: #7BB0B9 url('css/img/texture.jpg') no-repeat right top;
-	padding: 5px 15px;
-	margin: 20px 0px;
-	border-radius: 25px;
+	padding: .3125em .9375em;
+	margin: 1.25em 0px;
+	border-radius: 1.5625em;
 	text-transform: uppercase;
 
 }
@@ -46,13 +46,13 @@ h2 {
 }
 
 ul.nav {
-	margin: 120px 0 0 0;
+	margin: 7.5em 0 0 0;
 	list-style: none;
 	float: right;
 }
 ul.nav li {
 	float: left;
-	margin-right: 40px;
+	margin-right: 2.5em;
 }
 
 ul.nav li a {
@@ -60,7 +60,7 @@ ul.nav li a {
 }
 
 #logo_border {
-    border: 1px solid #FFFFFF;
+    border: .0625em solid #FFFFFF;
 }
 
 #name {
@@ -69,27 +69,27 @@ ul.nav li a {
 }
 
 #intro {
-	margin: 0px 0 75px 0;
+	margin: 0px 0 4.6875em 0;
 }
 
 #intro_pic {
-	margin: 35px 0px 10px 0px;
+	margin: 2.1875em 0em .625em 0em;
 	text-align: right;
 }
 
 #new-quirks img {
-	border: 8px solid #69CBDD;
-	margin: 0 0 55px 0;
+	border: .5em solid #69CBDD;
+	margin: 0 0 3.4375em 0;
 	text-align: right;
 }
 
 #featured-technique img {
-	border: 8px solid #69CBDD;
+	border: .5em solid #69CBDD;
 }
 
 #copyright {
-	border-top: 8px solid #2A0400;
-	padding: 10px 0px;
-	margin: 15px 0px;
+	border-top: .5em solid #2A0400;
+	padding: .625em 0px;
+	margin: .9375em 0px;
 	text-align: center;
 }
