@@ -10,7 +10,7 @@ a {
 
 }
 
-img {
+img, object {
 	max-width: 100%;
 }
 
@@ -92,7 +92,7 @@ h2 {
 
 #new-quirks img {
 	border: .5em solid #69CBDD;
-	margin: 0 0 3.4375em 0;
+	margin: 0 0 0em 0;
 	text-align: right;
 }
 
@@ -184,7 +184,7 @@ h2 {
 
 #nav ul li a {
 	-webkit-user-select: none;
-	font-size: 0.750em;
+	font-size: .8em;
 }
 
 #nav ul li {
